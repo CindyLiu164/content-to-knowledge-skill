@@ -61,7 +61,7 @@
 | 多来源对比卡 | 重合、增量、冲突和证据对齐 |
 | 视频/播客分析卡 | 转写、时间戳、观点分析和待验证项 |
 
-示例见 [`examples/`](examples)，模板见 [`templates/`](templates)，完整流程见 [`docs/workflow.md`](docs/workflow.md)。
+示例见 [`examples/`](examples)，模板见 [`templates/`](templates)，完整流程见 [`docs/workflow.md`](docs/workflow.md)。面试前温习材料见 [面试温习 Word](面试温习-内容知识处理Skill.docx) 和 [Markdown 版面试指南](docs/interview-guide.md)。
 
 ## 面向珀莱雅的迁移方式
 
@@ -86,7 +86,7 @@
 
 ## 关联案例
 
-本 Skill 的真实个人验证案例是一个 Obsidian + Quartz 知识库，包含公开的 AI、心理学和营养学学习内容。使用时应将案例链接替换为实际 GitHub Pages 地址。
+本 Skill 的真实个人验证案例是一个 Obsidian + Quartz 知识库，包含 AI、心理学和营养学学习内容。个人源内容不复制进本仓库；如果后续将 Quartz 站点公开，可在这里补充案例链接。当前仓库本身是可直接查看的公开作品主链接。
 
 ## 文件结构
 
@@ -98,4 +98,3 @@
 ├── examples/
 └── docs/
 ```
-
